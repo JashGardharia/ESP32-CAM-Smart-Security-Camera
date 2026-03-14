@@ -77,4 +77,4 @@ Motion Detected by ESP32-CAM Security Camera.
 
 # Author
 
-Embedded Systems Project by Jash.
+Embedded Systems Project by <h1>Jash.</h1>
