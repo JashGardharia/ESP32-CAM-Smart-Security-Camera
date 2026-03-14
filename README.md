@@ -1,4 +1,4 @@
-# ESP32-CAM Smart Security Camera
+# 🎥 ESP32-CAM Smart Security Camera 🎥
 
 A WiFi-enabled smart security camera built using the ESP32-CAM module that provides live video streaming through a browser IP portal and sends motion alerts directly to Telegram using a bot API.
 
